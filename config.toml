@@ -1,0 +1,15 @@
+
+
+bot_token = "7973249609:AAGtI8adUoeQb3p0_ykDI7vi-5AZE_T7HhE"
+
+chat_id = "@hellotest124"
+folder_path = "./Tele"
+max_retries = 3
+timeout = 20
+time_between_retries = 3
+resize_max_dimension = 4096
+resize_min_dimension = 320
+allowed_extensions = [".jpg", ".jpeg", ".png", ".gif", ".bmp"]
+
+[topics]
+
