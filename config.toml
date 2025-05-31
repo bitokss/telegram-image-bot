@@ -1,8 +1,8 @@
 
 
-bot_token = "7973249609:AAGtI8adUoeQb3p0_ykDI7vi-5AZE_T7HhE"
+bot_token = "your_bot_token"
 
-chat_id = "@hellotest124"
+chat_id = "@your_chat_id"
 folder_path = "./Tele"
 max_retries = 3
 timeout = 20
